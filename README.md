@@ -1,4 +1,4 @@
-# Handman
+# Hangman
 
 A text based game (yes retro!) written in pure python. 
 
